@@ -15,8 +15,8 @@
 I'm a Solutions Architect working full-time at Amazon Web Services (AWS). I work with customers to build solutions on the AWS Cloud. I'm currently a specialist in Amazon Connect, the easy to use, omni-channel cloud contact center service.
 
 I graduated from Penn State University with a degree in Computer Science and a minor in Economics. In my free time I like to learn new technologies, catch up on the latest cars, and learn more about financial markets and cryptocurrencies.  
-<br/>  
 
+<br/>  
 
 ## About Me  
 <table><tr><td valign="top" width="50%">
@@ -62,7 +62,6 @@ I graduated from Penn State University with a degree in Computer Science and a m
 
 <br/>  
 
-
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
@@ -72,9 +71,7 @@ I graduated from Penn State University with a degree in Computer Science and a m
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylanu&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
-
-<br/>  
-<br/>  
+</td></tr>
+</table>  
 
 <!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
