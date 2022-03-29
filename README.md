@@ -7,9 +7,6 @@
 <a href="https://linkedin.com/in/tunal" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-<a href="https://komarev.com/ghpvc/?username=taylanu&&style=flat-square" target="_blank">
-<img src=https://komarev.com/ghpvc/?username=taylanu&&style=flat-square alt=profileviews style="margin-bottom: 8px;" />
-</a>  
   
 ## Hello There!  
 I'm a Solutions Architect working full-time at Amazon Web Services (AWS). I work with customers to build solutions on the AWS Cloud. I'm currently a specialist in Amazon Connect, the easy to use, omni-channel cloud contact center service.
@@ -25,12 +22,6 @@ I graduated from Penn State University with a degree in Computer Science and a m
 - 🌱 I’m currently learning about JS and Docker  
 - ❓ Ask me about anything related to cryptocurrency mining and solution architecture  
 - ⚡ Fun fact: I'm also fluent in Turkish (Merhaba 👋)  
-
-<!-- </td><td valign="top" width="50%"> -->
-<!-- 
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>   -->
 
 </td></tr></table>  
 
@@ -73,5 +64,3 @@ I graduated from Penn State University with a degree in Computer Science and a m
 
 </td></tr>
 </table>  
-
-<!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
