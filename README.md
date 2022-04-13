@@ -13,8 +13,6 @@ I'm a Solutions Architect working full-time at Amazon Web Services (AWS). I work
 
 I graduated from Penn State University with a degree in Computer Science and a minor in Economics. In my free time I like to learn new technologies, catch up on the latest cars, and learn more about financial markets and cryptocurrencies.  
 
-<br/>  
-
 ## About Me  
 <table><tr><td valign="top" width="50%">
 
@@ -24,8 +22,6 @@ I graduated from Penn State University with a degree in Computer Science and a m
 - ⚡ Fun fact: I'm also fluent in Turkish (Merhaba 👋)  
 
 </td></tr></table>  
-
-<br/>  
 
 ## Languages and Tools  
 <div align="center">  
