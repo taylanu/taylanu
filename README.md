@@ -53,14 +53,14 @@ I graduated from Penn State University with a degree in Computer Science and a m
 
 <br/>  
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=taylanu&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylanu&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr>
-</table>  
+## Github Stats
+<table>
+  <tr>
+    <td valign="top" width="50%">
+    <img src="https://github-readme-stats.vercel.app/api?username=taylanu&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylanu&hide_border=true&layout=compact" align="center" style="width: 100%" />
+    </td>
+  </tr>
+</table> 
