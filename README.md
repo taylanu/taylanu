@@ -16,7 +16,7 @@ I graduated from Penn State University with a degree in Computer Science and a m
 ## About Me  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Stanford's [CS193P](https://github.com/taylanu/CS193P-TU) course on iOS Development   
+- 🔭 In my spare time, I’m currently working on Stanford's [CS193P](https://github.com/taylanu/CS193P-TU) course on iOS Development   
 - 🌱 I’m currently learning about JS and Docker  
 - ❓ Ask me about Bitcoin, mining, and finance!  
 - ⚡ Fun fact: I'm also fluent in Turkish (Merhaba 👋)  
