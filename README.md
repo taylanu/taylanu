@@ -60,3 +60,6 @@ I graduated from Penn State University with a degree in Computer Science and a m
     </td>
   </tr>
 </table> 
+
+## AWS re:Post Posts
+- [Integrating an Amazon Connect Customer Profiles Domain with Amazon Connect by API](https://repost.aws/articles/ARe8Bdet5HTCOYZvomFk_M6A)
