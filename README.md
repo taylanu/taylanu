@@ -23,6 +23,18 @@ I graduated from Penn State University with a degree in Computer Science and a m
 
 </td></tr></table>  
 
+## AWS Open Source Projects
+-  [aws-samples/amazon-q-in-connect-s3-integration-template](https://github.com/aws-samples/amazon-q-in-connect-s3-integration-template)
+-  [aws-samples/amazon-connect-wisdom-s3-sync](https://github.com/aws-samples/amazon-connect-wisdom-s3-sync)
+
+## AWS Blog Posts
+- [Deploying Open Policy Agent (OPA) as a sidecar on Amazon Elastic Container Service (Amazon ECS)](https://aws.amazon.com/blogs/opensource/deploying-open-policy-agent-opa-as-a-sidecar-on-amazon-elastic-container-service-amazon-ecs/)
+
+## AWS re:Post Posts
+- [Integrating an Amazon Connect Customer Profiles Domain with Amazon Connect by API](https://repost.aws/articles/ARe8Bdet5HTCOYZvomFk_M6A)
+
+<br/>
+
 ## Languages and Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
@@ -61,5 +73,3 @@ I graduated from Penn State University with a degree in Computer Science and a m
   </tr>
 </table> 
 
-## AWS re:Post Posts
-- [Integrating an Amazon Connect Customer Profiles Domain with Amazon Connect by API](https://repost.aws/articles/ARe8Bdet5HTCOYZvomFk_M6A)
