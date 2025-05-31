@@ -9,9 +9,9 @@
 </a>  
   
 ## Hello There!  
-I'm a Solutions Architect working full-time at Amazon Web Services (AWS). I work with customers to build solutions on the AWS Cloud. I'm currently a specialist in Amazon Connect, the easy to use, omni-channel cloud contact center service.
+I'm a Specialist Solutions Architect II, Amazon Connect working at Amazon Web Services (AWS). I work with customers to build solutions on the AWS Cloud. I'm currently a specialist in Amazon Connect, the easy to use, omni-channel cloud contact center service.
 
-I graduated from Penn State University with a degree in Computer Science and a minor in Economics. In my free time I like to learn new technologies, catch up on the latest cars, and learn more about financial markets and cryptocurrencies.  
+I graduated from Penn State University with a degree in Computer Science and a minor in Economics. In my free time, I love learning about new technologies, catching up on the latest in the automotive industry, and diving deep into personal finance and markets. 
 
 ## About Me  
 <table><tr><td valign="top" width="50%">
@@ -24,6 +24,7 @@ I graduated from Penn State University with a degree in Computer Science and a m
 </td></tr></table>  
 
 ## AWS Open Source Projects
+-  [aws-samples/aws-lambda-layer-deployment-template](https://github.com/aws-samples/aws-lambda-layer-deployment-template)
 -  [aws-samples/amazon-q-in-connect-s3-integration-template](https://github.com/aws-samples/amazon-q-in-connect-s3-integration-template)
 -  [aws-samples/amazon-connect-wisdom-s3-sync](https://github.com/aws-samples/amazon-connect-wisdom-s3-sync)
 
